@@ -1376,7 +1376,7 @@ self.C3_ExpressionFuncs = [
 		},
 		p => {
 			const v0 = p._GetNode(0).GetVar();
-			return () => and(v0.GetValue(), "gr");
+			return () => and(v0.GetValue(), "g");
 		},
 		p => {
 			const v0 = p._GetNode(0).GetVar();

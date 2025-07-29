@@ -1,2 +1,0 @@
-# maddelerde-sicaklik-degisimi
-
